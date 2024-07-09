@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>machuca1</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Bienvenido a mi primera página web</h1>
+  
+  <p>Este es un ejemplo simple de HTML.</p>
+  
+  <img src="https://via.placeholder.com/300" alt="Imagen de ejemplo">
+
+  <p>Puedes comenzar a editar este archivo para crear tu propio contenido.</p>
+
+</body>
+</html>
